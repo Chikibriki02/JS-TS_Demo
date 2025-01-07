@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "commonjs",
+      "experimentalDecorators": true, // Включаем поддержку декораторов
+      "emitDecoratorMetadata": true,  // (Необязательно) Включает эмиссию метаданных типов
+      "esModuleInterop": true,
+      // Проверьте наличие или отсутствие опции ниже
+      "useDefineForClassFields": false
+    }
+  }
